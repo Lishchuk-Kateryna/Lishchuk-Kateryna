@@ -1,16 +1,20 @@
 <img src="./banner.png" width="100%" alt="Banner" />
 
-### Hi there 👋 I'm Kateryna!
+### Hi everyone! I’m Katerina Lishchuk!
 
-- 🌱 Currently learning **SQLite** and improving my backend skills
-- 💻 Writing code in **C++**, **C#**, and **Python**
-- 🎯 Goal: *Learning to be better than yesterday*
+- Currently learning **SQLite** and improving my backend skills
+- Writing code in **C++**, **C#**, and **Python**
+- Goal: *Learning to be better than yesterday*
 
-### 🛠 Languages & Tools
+### Languages & Tools
 
 <p align="left">
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="C#" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="SQLite" />
+  <img src="./CPP.png" height="40" alt="C++" />
+  &nbsp;&nbsp;
+  <img src="./CISH.png" height="40" alt="C#" />
+  &nbsp;&nbsp;
+  <img src="./Python.png" height="40" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="./SQLITE.png" height="40" alt="SQLite" />
 </p>
+
