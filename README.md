@@ -1,6 +1,6 @@
 <img src="./banner.png" width="100%" alt="Banner" />
 
-### Hi everyone! I’m Katerina Lishchuk!
+### Hi there! I'm Kateryna, a 16-year-old aspiring developer. I'm passionate about learning programming languages and building useful things. My main goal is to become a Full-Stack Developer, and I'm always eager to master new tools and technologies along the way.
 
 - Currently learning **SQLite** and improving my backend skills
 - Writing code in **C++**, **C#**, and **Python**
