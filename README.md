@@ -2,9 +2,9 @@
 
 ### Hi there 👋 I'm Kateryna!
 
-- Currently learning **SQLite** and improving my backend skills
-- Writing code in **C++**, **C#**, and **Python**
-- Goal: *Learning to be better than yesterday*
+- 🌱 Currently learning **SQLite** and improving my backend skills
+- 💻 Writing code in **C++**, **C#**, and **Python**
+- 🎯 Goal: *Learning to be better than yesterday*
 
 ### 🛠 Languages & Tools
 
