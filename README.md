@@ -15,6 +15,6 @@
   &nbsp;&nbsp;
   <img src="./Python.png" height="40" alt="Python" />
   &nbsp;&nbsp;
-  <img src="./SQLITE.png" height="40" alt="SQLite" />
+  <img src="./SQLITE.png" height="80" alt="SQLite" />
 </p>
 
