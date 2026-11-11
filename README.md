@@ -9,11 +9,11 @@
 ### Languages & Tools
 
 <p align="left">
-  <img src="./CPP.png" height="40" alt="C++" />
+  <img src="./CPP.png" height="60" alt="C++" />
   &nbsp;&nbsp;
-  <img src="./CISH.png" height="40" alt="C#" />
+  <img src="./CISH.png" height="60" alt="C#" />
   &nbsp;&nbsp;
-  <img src="./Python.png" height="40" alt="Python" />
+  <img src="./Python.png" height="60" alt="Python" />
   &nbsp;&nbsp;
   <img src="./SQLITE.png" height="80" alt="SQLite" />
 </p>
