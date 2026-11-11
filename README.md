@@ -9,7 +9,7 @@
 ### Core Skills
 
 <p align="left">
-  <img src="https://skillicons.dev" alt="Skills" />
+  <!-- <img src="https://skillicons.dev" alt="Skills" /> -->
   <img src="./Proga.png" height="48" alt="Ren'Py" />
 </p>
 
