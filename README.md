@@ -6,15 +6,14 @@
 - Writing code in **C++**, **C#**, and **Python**
 - Goal: *Learning to be better than yesterday*
 
-### Languages & Tools
+### Core Skills
 
 <p align="left">
-  <img src="./CPP.png" height="60" alt="C++" />
-  &nbsp;&nbsp;
-  <img src="./CISH.png" height="60" alt="C#" />
-  &nbsp;&nbsp;
-  <img src="./Python.png" height="60" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="./SQLITE.png" height="80" alt="SQLite" />
+  <img src="https://skillicons.dev" alt="Skills" />
+  <img src="./Proga.png" height="48" alt="Ren'Py" />
 </p>
+
+- **languages:** Python • C++ • C# • Ren'Py Script • SQL • HTML • CSS
+- **databases:** SQLite
+- **tools & hardware:** Arduino • Git
 
